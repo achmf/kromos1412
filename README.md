@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Achmad alt:kromos
+- 👋 Hi, I’m Achmad alt: kromos
 - 👀 I’m interested in programming ofc ✌
 - 🌱 I’m currently learning java and kotlin language and learning web dev
 - 💞️ I’m looking to collaborate on any project?
