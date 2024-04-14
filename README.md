@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Achmad alt: kromos
 - 👀 I’m interested in programming ofc ✌
-- 🌱 I’m currently learning java and kotlin language and learning web dev
+- 🌱 I’m currently learning java, kotlin, and web dev also.
 - 💞️ I’m looking to collaborate on any project?
 - 📫 How to reach me farizi1412@gmail.com (email)
 - 😄 Pronouns: toyota supra
