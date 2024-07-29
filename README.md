@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java, kotlin, and web dev also.
 - 💞️ I’m looking to collaborate on any project?
 - 📫 How to reach me farizi1412@gmail.com (email)
-- 😄 Pronouns: toyota supra
+- 😄 Pronouns: attack helicopter 🚁
 - ⚡ Fun fact: did i look funny?
 
 <!---
